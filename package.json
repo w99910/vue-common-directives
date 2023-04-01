@@ -1,0 +1,20 @@
+{
+    "name": "vue-common-directives",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {
+        "build": "vite build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Zaw Lin Tun (Thomas)",
+    "license": "MIT",
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.1.0",
+        "autoprefixer": "^10.4.14",
+        "path": "^0.12.7",
+        "tailwindcss": "^3.2.7",
+        "vite": "^4.2.1",
+        "js-utils": "file:../js-utils"
+    }
+}
